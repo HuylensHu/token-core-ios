@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import libscrypt
+import CoreBitcoin.libscrypt
 
 extension Encryptor {
   class Scrypt {
